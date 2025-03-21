@@ -55,8 +55,7 @@ Built an **ERP system for a recycling company** with a **team of 4 engineers**.
   - Events aimed at making **sports more social & accessible on campus**  
 
 ### 🌍 **Adventure & Fitness**  
-- **Outdoor enthusiast**: Love **hiking, abseiling, kayaking, and canoeing**  
-- **Gym 5x a week**, focused on **cutting from a skinny-fat physique**  
+- **Outdoor enthusiast**: Love **hiking, abseiling, kayaking, and canoeing**   
 
 ### 🎵 **Music & Culture**  
 - Play **harmonium & tabla**, blending classical and modern sounds  
