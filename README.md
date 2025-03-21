@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a **Computer Science and Commerce (Accounting) student
 🌱 **Currently Learning**: Rust, PostgreSQL  
 🏆 **Achievements**:  
 - Founder & President of **UNSW Social Soccer Society** (1000+ members, 200+ weekly attendees)  
-- **IBM AI Consulting Internship** & Business-focused tech internship  
+- **Technology Consultant (Data & AI) at IBM** - Applicatin of generative AI to citizen services  
 - **Software Engineer @ UNSW Rocketry** – Data acquisition & website rebuild
 - **Software Engineer @ UNSW Bluestat** - Balloon Project  
 
